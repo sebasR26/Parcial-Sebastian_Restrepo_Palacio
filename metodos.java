@@ -51,9 +51,7 @@ public class metodos {
         }
     }
 
-    public void suma(obj a){
-        
-    }
+
 
     
 
